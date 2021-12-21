@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/1.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  },
+  {
+    "id": "2",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/2.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  },
+  {
+    "id": "3",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/3.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  },
+  {
+    "id": "4",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/4.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  },
+  {
+    "id": "5",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/5.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  },
+  {
+    "id": "6",
+    "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/restoran/6.png",
+    "title": "Пицца плюс",
+    "time": "50 мин",
+    "prise": "900",
+    "catigories": "Пицца",
+    "reiting": "4.5"
+  }
+]
