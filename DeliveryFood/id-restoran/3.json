@@ -1,0 +1,52 @@
+[
+  {
+    "name": "FoodBand",
+    "raiting": "4.2",
+    "prof": "Пицца и суши",
+    "prise": "900",
+    "products": [
+      {
+        "id": "1",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/1.png",
+        "title": "Ролл угорь стандарт",
+        "discription": "Рис, угорь, соус унаги, кунжут, водоросли нори.",
+        "prise": "250"
+      },
+      {
+        "id": "2",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/2.png",
+        "title": "Калифорния лосось стандар",
+        "discription": "Рис, угорь, соус унаги, кунжут, водоросли нори.",
+        "prise": "230"
+      },
+      {
+        "id": "3",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/3.png",
+        "title": "Ролл угорь стандарт",
+        "discription": "Рис, помидор свежий, перец болгарский, авокадо, огурец, айсберг",
+        "prise": "3495"
+      },
+      {
+        "id": "4",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/4.png",
+        "title": "Ролл угорь стандарт",
+        "discription": "Рис, угорь, соус унаги, кунжут, водоросли нори.",
+        "prise": "440"
+      },
+      {
+        "id": "5",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/5.png",
+        "title": "Ролл угорь стандарт",
+        "discription": "Рис, угорь, соус унаги, кунжут, водоросли нори.",
+        "prise": "111"
+      },
+      {
+        "id": "6",
+        "img": "https://trp-web.github.io/Delivery-Food/DeliveryFood/img/product/6.png",
+        "title": "Ролл угорь стандарт",
+        "discription": "Рис, помидор свежий, перец болгарский, авокадо, огурец, айсберг",
+        "prise": "500"
+      }
+    ]
+  }
+]
